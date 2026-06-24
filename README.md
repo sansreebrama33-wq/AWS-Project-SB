@@ -1,5 +1,5 @@
 ## AWS Project
-Highly Avaialble and Scalable Web Application Deployment on AWS using EC2,ASG,ALB.
+Highly Available and Scalable Web Application Deployment on AWS using EC2,ASG,ALB.
 
 ## Overview
 This project demonstrates a highly available and scalable web application architecture built on AWS using core cloud services. The system dynamically 
