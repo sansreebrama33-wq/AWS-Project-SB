@@ -16,6 +16,7 @@ scales compute resources using an Auto Scaling Group (ASG) and automatically han
 - Auto Scaling Group (ASG) – Automatically adds or removes EC2 instances based on demand
 - EC2 Instances (Amazon Linux) – Hosts the application workload
 - CloudWatch Monitoring – Monitors CPU utilization and triggers scaling policies.
+    * Architecture Diagram)(screenshots/architecture.png)
 
 ## AWS Service used
 - Amazon EC2
@@ -59,10 +60,6 @@ scales compute resources using an Auto Scaling Group (ASG) and automatically han
 *  Application Output
 - [ALB DNS](screenshots/alb-dns.png)      
 
-* Architecture Diagram
-- [Architecture](screenshots/architecture.png)
   
-
-
 
                   ################################                               ##############################
