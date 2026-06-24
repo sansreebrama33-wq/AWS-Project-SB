@@ -58,4 +58,11 @@ scales compute resources using an Auto Scaling Group (ASG) and automatically han
 
 *  Application Output
 - [ALB DNS](screenshots/alb-dns.png)      
+
+* Architecture Diagram
+- [Architecture](screenshots/architecture.png)
+  
+
+
+
                   ################################                               ##############################
