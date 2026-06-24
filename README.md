@@ -1,5 +1,5 @@
 ## AWS Project
-Highly Avaialble and Scalable Web Application Deployment on AWS using EC2,ASG,ALB.
+Highly Available and Scalable Web Application Deployment on AWS using EC2,ASG,ALB.
 
 ## Overview
 This project demonstrates a highly available and scalable web application architecture built on AWS using core cloud services. The system dynamically 
@@ -40,4 +40,22 @@ scales compute resources using an Auto Scaling Group (ASG) and automatically han
 - Setup Auto Scaling Group
 - Testing the Setup
 
-                        ################################                               ##############################
+## Screenshots of Test
+*  EC2 Instances
+- [EC2](screenshots/ec2.png)
+
+*  Load Balancer
+- [ALB](screenshots/alb.png)
+
+*  Target Group
+- [Target Group](screenshots/target-group.png)
+
+*  Auto Scaling Group
+- [ASG](screenshots/asg.png)
+
+*  CloudWatch Metrics
+- [CloudWatch](screenshots/cloudwatch.png)
+
+*  Application Output
+- [ALB DNS](screenshots/alb-dns.png)      
+                  ################################                               ##############################
