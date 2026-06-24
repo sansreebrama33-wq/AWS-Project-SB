@@ -11,11 +11,11 @@ scales compute resources using an Auto Scaling Group (ASG) and automatically han
                - Efficient traffic distribution across multiple EC2 instances.
 
 ## Architecture
-- EC2 Instances (Amazon Linux)
-- Auto Scaling Group (ASG)
-- Application Load Balancer (ALB)
-- Target Group
-- CloudWatch Monitoring (CPU Metrics)
+- Application Load Balancer (ALB) – Distributes incoming traffic across multiple EC2 instances
+- Target Group – Routes traffic from ALB to healthy EC2 instances
+- Auto Scaling Group (ASG) – Automatically adds or removes EC2 instances based on demand
+- EC2 Instances (Amazon Linux) – Hosts the application workload
+- CloudWatch Monitoring – Monitors CPU utilization and triggers scaling policies.
 
 ## AWS Service used
 - Amazon EC2
