@@ -60,6 +60,10 @@ scales compute resources using an Auto Scaling Group (ASG) and automatically han
 *  Application Output
 - [ALB DNS](screenshots/alb-dns.png)      
 
-  
+## Conclusion
+- This project demonstrates a scalable and highly available AWS architecture using EC2, Auto Scaling Group, Application Load Balancer, and CloudWatch 
+monitoring. It ensures fault tolerance, automatic scaling, and efficient traffic distribution across multiple Availability Zones.
+    Through this project I learned how AWS services works together to build a real cloud system.
+ 
 
                   ################################                               ##############################
